@@ -1,1 +1,11 @@
 Pequeña aplicación que permite llevar un control de los pendientes, así como controlar el avance, estableciendo el nivel de criticidad de cada actividad.
+Su manejo es muy simple, consta de tres botones para seleccionar la criticidad de la actividad pendiente 1, color rojo para las actividades críticas, las más urgentes; 2, de color naranja para las de urgencia mediana y verde para las de criticidad baja.
+Primero se determina la criticidad eligiendo alguno de los tres círculos de color, posteriormente se escribe la actividad de manera breve en espacio a la derecha y se hace clic en agregar tarea con el botón azul.
+Al ingresar lo anterior, la aplicación esta lista para que se ingrese una nueva tarea.
+Como laideacentral es enfocar nuestra atención en las actividades más críticas, por ello, estas aparecerán siempre encima de las demás y las de menor urgencia hasta abajo.
+Al ser agregada cada tarea, aparecen a su derecha tres cosas, un recuadro donde podemos ir registrando el avance de estas, por default esta en 0%, pero a medida que se avance en el cumplimiento, este puede ser 25%, 50%, 75% y 100%. En cada caso, una barra del color de la criticidad elegida, se mostrará en correspondencia con el porcentaje del avance.
+Cuando marcamos un 100% de avance en una tarea, esta se mueve a la parte inferior y hay un sonido para motivar su cumplimiento total. El texto de la tarea aparece también tachado.
+A la izquierda de la actividad a realizar hay otros dos iconos, uno con un lápiz por si se necesita modificar la actividad y una casilla roja con una x, por si es necesario eliminar alguna tarea
+En la parte superior, a la izquierda del botón verde hay un pequeño número en un círculo rojo que nos indica de un vistazo cuantas tareas tenemos pendientes.
+El botón verde con el signo de +, nos permite agregar otra pestaña y personalizarla poniendo el nombre deseado, por ejemplo "Playa", para hacer un check list de las cosas que debemos llevar, o "Trabajo" para separar las actividades personales de las laborales, en fin, puede utilizarse de diversas maneras.
+Finalmente, en la esquina superior derecha hay una media luna con la que puede cambiarse el brillo de la pantalla, ya sea que se necesite más clara si hay mucho sol, poca luz o una pantalla oscura de acuerdo a las necesidades.
