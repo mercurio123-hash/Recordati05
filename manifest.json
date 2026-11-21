@@ -1,0 +1,32 @@
+{
+  "background_color": "#ffffff",
+  "description": "Control de pendientes con prioridades, avance y orden inteligente.",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon-512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon-512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon-j5.png",
+      "type": "image/png"
+    }
+  ],
+  "lang": "es",
+  "name": "Juliu's Special 5 - Smart Sort",
+  "orientation": "portrait",
+  "scope": "./",
+  "short_name": "Juliu's Special 5",
+  "start_url": "./index.html",
+  "theme_color": "#2c3e50"
+}
